@@ -28,11 +28,13 @@ Includes EDA, preprocessing, leakage handling, hyperparameter tuning (GridSearch
     └── report_redacted.pdf
 ```
 
-## How to run
+## Run
+You can open the notebook on GitHub to view code and outputs, or run it online via Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LironOhana/knn-students-classification/blob/main/notebooks/knn_students_classification.ipynb)
+
+Local setup (optional):
 ```bash
 pip install -r requirements.txt
 jupyter notebook
-```
 
-Open:
-- `notebooks/knn_students_classification.ipynb`
